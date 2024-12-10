@@ -1,0 +1,5 @@
+train: ./train/images
+val: ./val/images
+
+nc: 4
+names: ['red_cone','orange_cone','blue_cone','yellow_cone']
